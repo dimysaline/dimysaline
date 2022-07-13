@@ -1,4 +1,4 @@
-### Olá! Eu sou a Aline Costa 👋
+### Olá! Eu sou a Dimys Aline 👋
 - 🔭 I’m currently working on finance
 - 🌱 I’m currently learning Java and Data Analytics
 - 📫 How to reach me: dimyscosta@gmail.com
